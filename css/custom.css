@@ -1,0 +1,7 @@
+/*! Place your custom styles here */
+.bar {
+  padding: 1.25em 0;
+}
+.bar .logo {
+  max-height: 3.5em;
+}
